@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ghostwire</title>
+        <description>Sparkle update feed for Ghostwire. Items are published by release.sh on each version bump.</description>
+        <!-- Placeholder until the first published item. -->
+    </channel>
+</rss>
