@@ -5,6 +5,14 @@
         <description>Sparkle update feed for Ghostwire. Items are published by release.sh on each version bump.</description>
         <!-- Placeholder until the first published item. -->
         <item>
+            <title>0.1.4</title>
+            <pubDate>Thu, 11 Jun 2026 20:53:36 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Ghostwire-Design/ghostwire-releases/releases/download/v0.1.4/ghostwire-0.1.4.dmg" length="10204949" type="application/octet-stream" sparkle:edSignature="TdESV/3MIvzJ/hkABazJGDsksyhBBEoVLtZzGuHCErS5RSsJRQ1OhZNmD23FFjwsmkDQgOqpToGF0DwB7nh1AA=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Thu, 11 Jun 2026 20:10:33 -0700</pubDate>
             <sparkle:version>4</sparkle:version>
