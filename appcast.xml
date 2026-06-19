@@ -5,6 +5,14 @@
         <description>Sparkle update feed for Ghostwire. Items are published by release.sh on each version bump.</description>
         <!-- Placeholder until the first published item. -->
         <item>
+            <title>0.1.7</title>
+            <pubDate>Fri, 19 Jun 2026 03:45:21 -0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Ghostwire-Design/ghostwire-releases/releases/download/v0.1.7/ghostwire-0.1.7.dmg" length="10918561" type="application/octet-stream" sparkle:edSignature="2cf+u2xCmzNjVQq7q7IIj96hsM9dzHP4rTmMbhM22j+2Pbfsm4x33Ux7u4iOl/lvLJZvnYV5MEU3QwBpHagRDQ=="/>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Thu, 18 Jun 2026 03:03:38 -0700</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -19,14 +27,6 @@
             <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Ghostwire-Design/ghostwire-releases/releases/download/v0.1.5/ghostwire-0.1.5.dmg" length="8535437" type="application/octet-stream" sparkle:edSignature="tLA7ruDLBvHf+25R1+/8zPL7BZEUrGvaNbmcxA+8kbQG785plUB7u05inQ7lY/b7Pl3BavmMIFGhdl0q+xwBCQ=="/>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Thu, 11 Jun 2026 20:53:36 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Ghostwire-Design/ghostwire-releases/releases/download/v0.1.4/ghostwire-0.1.4.dmg" length="10204949" type="application/octet-stream" sparkle:edSignature="TdESV/3MIvzJ/hkABazJGDsksyhBBEoVLtZzGuHCErS5RSsJRQ1OhZNmD23FFjwsmkDQgOqpToGF0DwB7nh1AA=="/>
         </item>
     </channel>
 </rss>
